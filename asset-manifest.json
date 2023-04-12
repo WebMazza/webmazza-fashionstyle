@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/webmazza-fashionstyle/static/css/main.29a7851b.css",
-    "main.js": "/webmazza-fashionstyle/static/js/main.9eaa8db2.js",
+    "main.css": "/webmazza-fashionstyle/static/css/main.72521b83.css",
+    "main.js": "/webmazza-fashionstyle/static/js/main.7bc21cc4.js",
     "static/media/woman_hero.png": "/webmazza-fashionstyle/static/media/woman_hero.d109717db264ec684e97.png",
     "static/media/bg_hero.png": "/webmazza-fashionstyle/static/media/bg_hero.1bc44dd619648866732a.png",
     "static/media/logo.png": "/webmazza-fashionstyle/static/media/logo.a1a6564cd46677080014.png",
     "index.html": "/webmazza-fashionstyle/index.html",
-    "main.29a7851b.css.map": "/webmazza-fashionstyle/static/css/main.29a7851b.css.map",
-    "main.9eaa8db2.js.map": "/webmazza-fashionstyle/static/js/main.9eaa8db2.js.map"
+    "main.72521b83.css.map": "/webmazza-fashionstyle/static/css/main.72521b83.css.map",
+    "main.7bc21cc4.js.map": "/webmazza-fashionstyle/static/js/main.7bc21cc4.js.map"
   },
   "entrypoints": [
-    "static/css/main.29a7851b.css",
-    "static/js/main.9eaa8db2.js"
+    "static/css/main.72521b83.css",
+    "static/js/main.7bc21cc4.js"
   ]
 }
