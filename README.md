@@ -64,4 +64,3 @@ This project helped me to get more confident with _React_ and _Tailwind_, learni
 Expand the project by going deeper into each section, add filtering and search functionality, implement a wishlist feature, create a checkout process with additional payment options (using tools such as _Stripe_), store data and implement user authentication (using cloud-hosted database tools, like _Firebase_), add order tracking and add social media sharing and integration.
 
 <br/>
-# webmazza-fashionstyle-
